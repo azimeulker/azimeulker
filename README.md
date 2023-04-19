@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azime</h1>
+<h1 align="center">Hi 👋 I'm Azime</h1>
 <h3 align="center">Crafting code, crafting games: My journey in software and game development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
