@@ -8,7 +8,7 @@
 
 - 📫 Reach me **via email azimeulker@hotmail.com or my LinkedIn account!**
 
-- ⚡ Fun fact **Coding is a form of meditation for many programmers, as it requires a high level of focus and concentration.**
+- ⚡ Fun fact: **Coding is a form of meditation for many programmers, as it requires a high level of focus and concentration.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
