@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Azime</h1>
+<h1 align="center">Hi 👋 I'm Azime</h1>
 <h3 align="center">Crafting code, crafting games: My journey in software and game development.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🌱 I'm currently improving my skills in C#, Unity, JavaScript, HTML, and CSS.**
+- 🌱 I'm currently improving my skills in C#, Unity, JavaScript, HTML, and CSS.
 
 - 📫 Reach me **via email azimeulker@hotmail.com or my LinkedIn account!**
 
@@ -18,6 +18,7 @@
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azimeulker&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azimeulker&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azimeulker&langs_count=8&layout=compact&theme=radical)
 
