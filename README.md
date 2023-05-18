@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🌱 I'm currently improving my skills in C#, Lua, Unity, JavaScript, HTML, and CSS.
+- 🌱 I'm currently improving my skills in C#, Unity, JavaScript, HTML, and CSS.
 
 - 📫 Reach me **via email azimeulker@hotmail.com or my LinkedIn account!**
 
