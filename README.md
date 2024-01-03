@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋 I'm Azime</h1>
-<h3 align="center">Crafting code, crafting games: My journey in software and game development.</h3>
-
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🌱 I'm currently improving my skills in C#, Unity, JavaScript, HTML, and CSS.
